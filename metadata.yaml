@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25773
     wikipedia: http://de.wikipedia.org/wiki/Karl_Ettlinger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23243#Mister-Galgenstrick--und-andere-Humoresken
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2007-10-29'
 gutenberg_type: Text
